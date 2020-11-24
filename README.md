@@ -8,6 +8,8 @@ Initial setup:
 - Clone it to your local machine
 
 Each week: 
-- Pull from the central repo any updates
+- Update your forked repo to get the latest changes
 - Work on the assignments, commit and push your work to your fork
 - Make a pull request so I can review your work
+
+How to sync a fork: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
